@@ -1,4 +1,4 @@
-# Nuxt 3 + UnoCSS Stater
+# Nuxt 3 + UnoCSS Starter
 
 A minimal starter project that combines NuxtJS and UnoCSS. 
 It includes essential dependencies like  clsx,  tailwind-merge,unhead. It leverages various tools and libraries to provide a seamless development experience.
