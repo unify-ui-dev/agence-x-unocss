@@ -131,7 +131,13 @@ const footerLinks = [
                             <input type="email" bg="neutral-2 dark:neutral-8" un-border="~ neutral-3 dark:neutral-7"
                                 class="w-full outline-none px3 py3 rd-full" placeholder="johndoe@gmail.com">
                             <button
-                                class="w-full py3 sm-py0 sm-w-max sm-absolute sm-right-1 sm-inset-y-1 px4 text-sm flex sm-items-center justify-center outline-none bg-blue-6 text-white rd-3xl">Subscribe</button>
+                            border="~ transparent hover:#172554"
+                                un-after="absolute content-empty inset-x-0 aspect-square scale-0 op-70 origin-center duration-300 ease-linear rd-full top-0 left-0 bg-#172554 hover:op-100 hover:scale-[2.5]"
+                                class="w-full py3 sm-py0 sm-w-max sm-absolute sm-right-1 sm-inset-y-1 px4 text-sm flex sm-items-center justify-center outline-none bg-blue-6 text-white rd-3xl relative overflow-hidden">
+                                <span relative z10>
+                                    Subscribe
+                                </span>
+                            </button>
                         </div>
                     </form>
                 </div>

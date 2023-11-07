@@ -31,7 +31,7 @@
                                 <span i-carbon-email flex text-xl bg="neutral-8 dark:neutral-2"></span>
                             </span>
                             <input type="email" placeholder="johndoe@gmail.com" w-full py-3 outline-none bg-transparent>
-                            <button border="~ transparent hover:#172554"
+                            <button aria-label="Get Started" border="~ transparent hover:#172554"
                                 un-after="absolute content-empty inset-x-0 aspect-square scale-0 op-70 origin-center duration-300 ease-linear rd-full top-0 left-0 bg-#172554 hover:op-100 hover:scale-[2.5]"
                                 class="outline-none flex justify-center items-center sm-w-max min-w-max px6 h12 bg-blue-6 rd-full relative
                                 overflow-hidden duration-300 ease-linear">

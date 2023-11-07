@@ -15,8 +15,8 @@
                     culpa facere consequuntur repellat delectus.
                 </p>
                 <div class="grid sm-grid-cols-2 gap6">
-                    <div class="space-y-6 p4 rd-3xl bg-neutral1 dark-bg-neutral9 border border-neutral2 dark-border-neutral8">
-                        <span class="rd-full bg-neutral-2 dark-bg-neutral8 text-neutral8 dark-text-neutral2 w-max p3 flex">
+                    <div p="5 sm:6 lg:8" class="space-y-6 rd-3xl bg-neutral1 dark-bg-neutral9 border border-neutral2 dark-border-neutral8">
+                        <span class="rd-xl bg-neutral-2 dark-bg-neutral8 text-neutral8 dark-text-neutral2 w-max p3 flex">
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
                                 stroke="currentColor" class="w6 h6">
                                 <path stroke-linecap="round" stroke-linejoin="round"
@@ -29,8 +29,8 @@
                         </p>
                     </div>
  
-                    <div class="space-y-6 p-4 rd-3xl bg-neutral1 dark-bg-neutral9 border border-neutral2 dark-border-neutral8">
-                        <span class="rd-full bg-neutral2 dark-bg-neutral8 text-neutral8 dark-text-neutral2 wmax p3 flex">
+                    <div p="5 sm:6 lg:8" class="space-y-6 rd-3xl bg-neutral1 dark-bg-neutral9 border border-neutral2 dark-border-neutral8">
+                        <span class="rd-xl bg-neutral2 dark-bg-neutral8 text-neutral8 dark-text-neutral2 wmax p3 flex">
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
                                 stroke="currentColor" class="w6 h6">
                                 <path stroke-linecap="round" stroke-linejoin="round"

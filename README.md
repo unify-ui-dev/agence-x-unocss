@@ -1,8 +1,11 @@
-# Nuxt 3 + UnoCSS Stater
+# AgenceX : NuxtJs + UnoCSS Landing page
 
-A minimal starter project that combines NuxtJS and UnoCSS. 
-It includes essential dependencies like  clsx,  tailwind-merge,unhead. It leverages various tools and libraries to provide a seamless development experience.
+![Agence X NuxtJs](./cover_agence_x.webp) 
+ 
+A simple landing page for a digital agency made with UnifyUi blocks : nuxtJs + UnoCSS
 
+[Live preview](https://agence-x-unocss.vercel.app/){target="_blank"}
+  
 ## 💻 Stack/Dependencies
 
 - [nuxt](https://nuxtjs.org/): A framework for building Vue.js applications with server-side rendering, routing, and more.
@@ -15,10 +18,10 @@ It includes essential dependencies like  clsx,  tailwind-merge,unhead. It levera
 
 ## Setup
 
-1. Clone the uno-nuxtjs-boilerplate repository:
+1. Clone the agence-x-uno repository:
 
 ```sh
-git clone https://github.com/unify-ui-dev/uno-nuxtjs-boilerplate
+git clone https://github.com/unify-ui-dev/agence-x-unocss.git
 ```
 
 2. Make sure to install the dependencies:

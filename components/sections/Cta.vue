@@ -27,8 +27,13 @@
                         delectus architecto ullam earum
                     </p>
                     <div class="mx-auto max-w-md sm-max-w-xl flex justify-center">
-                        <nuxt-link to="#" class="outline-none h12 px5 rd-3xl bg-blue-6 text-white flex items-center">
-                            Get in touch
+                        <nuxt-link to="#" 
+                         border="~ transparent hover:#172554"
+                                un-after="absolute content-empty inset-x-0 aspect-square scale-0 op-70 origin-center duration-300 ease-linear rd-full top-0 left-0 bg-#172554 hover:op-100 hover:scale-[2.5]"
+                        class="outline-none h12 px6 rd-3xl bg-blue6 text-white flex items-center overflow-hidden  wmax relative">
+                            <span relative z10>
+                                Get in touch
+                            </span>
                         </nuxt-link>
                     </div>
                 </div>
