@@ -88,7 +88,7 @@ const footerLinks = [
                 <div class="flex">
                     <nuxt-link to="#">
                         <span
-                            class="text-transparent bg-clip-text bg-gradient-to-tr from-blue-8 to-indigo-4 font-bold text-2xl">U</span>
+                            class="text-transparent bg-clip-text bg-gradient-to-tr from-emerald-8 to-teal-4 font-bold text-2xl">U</span>
                         Unify-Ui
                     </nuxt-link>
                 </div>
@@ -112,7 +112,7 @@ const footerLinks = [
                     </h1>
                     <ul class="space-y-3">
                         <li v-for="item in footerItem.items" :key="item.id">
-                            <nuxt-link :to="item.link" class="hover-text-blue-6 dark-hover-text-blue-5 duration-200">
+                            <nuxt-link :to="item.link" class="hover-text-emerald-6 dark-hover-text-emerald-5 duration-200">
                                 {{ item.label }}
                             </nuxt-link>
                         </li>
@@ -133,7 +133,7 @@ const footerLinks = [
                             <button
                             border="~ transparent hover:#172554"
                                 un-after="absolute content-empty inset-x-0 aspect-square scale-0 op-70 origin-center duration-300 ease-linear rd-full top-0 left-0 bg-#172554 hover:op-100 hover:scale-[2.5]"
-                                class="w-full py3 sm-py0 sm-w-max sm-absolute sm-right-1 sm-inset-y-1 px4 text-sm flex sm-items-center justify-center outline-none bg-blue-6 text-white rd-3xl relative overflow-hidden">
+                                class="w-full py3 sm-py0 sm-w-max sm-absolute sm-right-1 sm-inset-y-1 px4 text-sm flex sm-items-center justify-center outline-none bg-emerald-6 text-white rd-3xl relative overflow-hidden">
                                 <span relative z10>
                                     Subscribe
                                 </span>

@@ -2,10 +2,10 @@
     <section class="py24">
         <div class="max-w-7xl mx-auto px-5 sm-px-10 md-px-12 lg-px-5 flex flex-col md-flex-row gap16">
             <div class="flex md-flex-1">
-                <img src="/images/happy-work.webp" alt="working on housing" width="1300"
-                    class="wfull md-hfull object-cover rd-lg">
+                <img src="/images/heroImg.webp" alt="working on housing" width="1300"
+                    class="wfull md-hfull object-cover rd-3xl">
             </div>
-            <div class="md-w-1/2 lg-w-54% space-y-12 text-neutral-7 dark-text-neutral-3">
+            <div class="md-w-1/2 lg-w-54% space-y-12 text-neutral-7 dark-text-neutral-3 md-py8">
                 <h1 class="text-neutral9 dark-text-white font-semibold text-2xl sm-text-3xl md-text-4xl">
                     We help drive your business forward faster
                 </h1>

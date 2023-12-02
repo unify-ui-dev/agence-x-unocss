@@ -22,7 +22,7 @@
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti qui soluta cupiditate
                         </p>
                     </div>
-                    <span class="absolute w32 aspect-square -bottom-16 -right-16 bg-sky-6/10 rd-full"></span>
+                    <span class="absolute w32 aspect-square -bottom-16 -right-16 bg-emerald-6/10 rd-full"></span>
                 </div>
                 <div p="5 sm:6 lg:8" border="~ neutral-2 dark:neutral-8" bg="neutral-1 dark:neutral-9" class="rd-3xl relative overflow-hidden">
                     <div bg="neutral-2 dark:neutral-8" text="neutral-9 dark:white" class="rd-xl p3 w-max relative">
@@ -36,7 +36,7 @@
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti qui soluta cupiditate
                         </p>
                     </div>
-                    <span class="absolute w32 aspect-square -bottom-16 -right-16 bg-sky-6/10 rd-full"></span>
+                    <span class="absolute w32 aspect-square -bottom-16 -right-16 bg-emerald-6/10 rd-full"></span>
                 </div>
                 <div p="5 sm:6 lg:8" border="~ neutral-2 dark:neutral-8" bg="neutral-1 dark:neutral-9" class="rd-3xl relative overflow-hidden">
                     <div bg="neutral-2 dark:neutral-8" text="neutral-9 dark:white" class="rd-xl p3 w-max relative">
@@ -50,7 +50,7 @@
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti qui soluta cupiditate
                         </p>
                     </div>
-                    <span class="absolute w32 aspect-square -bottom-16 -right-16 bg-sky-6/10 rd-full"></span>
+                    <span class="absolute w32 aspect-square -bottom-16 -right-16 bg-emerald-6/10 rd-full"></span>
                 </div>
                 <div p="5 sm:6 lg:8" border="~ neutral-2 dark:neutral-8" bg="neutral-1 dark:neutral-9" class="rd-3xl relative overflow-hidden">
                     <div bg="neutral-2 dark:neutral-8" text="neutral-9 dark:white" class="rd-xl p3 w-max relative">
@@ -64,7 +64,7 @@
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti qui soluta cupiditate
                         </p>
                     </div>
-                    <span class="absolute w32 aspect-square -bottom-16 -right-16 bg-sky-6/10 rd-full"></span>
+                    <span class="absolute w32 aspect-square -bottom-16 -right-16 bg-emerald-6/10 rd-full"></span>
                 </div>
                 <div p="5 sm:6 lg:8" border="~ neutral-2 dark:neutral-8" bg="neutral-1 dark:neutral-9" class="rd-3xl relative overflow-hidden">
                     <div bg="neutral-2 dark:neutral-8" text="neutral-9 dark:white" class="rd-xl p3 w-max relative">
@@ -78,7 +78,7 @@
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti qui soluta cupiditate
                         </p>
                     </div>
-                    <span class="absolute w32 aspect-square -bottom-16 -right-16 bg-sky-6/10 rd-full"></span>
+                    <span class="absolute w32 aspect-square -bottom-16 -right-16 bg-emerald-6/10 rd-full"></span>
                 </div>
                 <div p="5 sm:6 lg:8" border="~ neutral-2 dark:neutral-8" bg="neutral-1 dark:neutral-9" class="rd-3xl relative overflow-hidden">
                     <div bg="neutral-2 dark:neutral-8" text="neutral-9 dark:white" class="rd-xl p3 w-max relative">
@@ -92,7 +92,7 @@
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti qui soluta cupiditate
                         </p>
                     </div>
-                    <span class="absolute w32 aspect-square -bottom-16 -right-16 bg-sky-6/10 rd-full"></span>
+                    <span class="absolute w32 aspect-square -bottom-16 -right-16 bg-emerald-6/10 rd-full"></span>
                 </div>
             </div>
  
